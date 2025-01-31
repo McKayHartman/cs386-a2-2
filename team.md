@@ -1,9 +1,9 @@
 # Logan
 
-# Christian
+# Christian: Junior CS student with a minor in Business Management
 
 # Mckay
-Mckay Hartman was here
+
 # Lacy
 
 # Marco
