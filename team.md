@@ -15,7 +15,3 @@ Adding this line! My name is Marco. That's all.
 # Bryce
 
 I am Bryce :D
-
-# Bryce
-
-> > > > > > > a0db941 (Adding personal info. Fixes #1)
