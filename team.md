@@ -7,7 +7,7 @@ Logan
 # Mckay
 Mckay Hartman was here :)
 # Lacy
-
+Hi! My name is Lacy!
 # Marco
 
 Adding this line! My name is Marco. That's all.
